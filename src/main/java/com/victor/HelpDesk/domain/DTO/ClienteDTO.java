@@ -15,6 +15,7 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 
+@SuppressWarnings("unused")
 public class ClienteDTO implements Serializable {
     private static final long serialVersionUID = 1L;
 

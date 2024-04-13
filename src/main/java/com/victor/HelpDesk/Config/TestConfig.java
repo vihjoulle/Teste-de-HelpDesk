@@ -8,6 +8,7 @@ import org.springframework.context.annotation.Profile;
 
 import com.victor.HelpDesk.Service.DBService;
 
+@SuppressWarnings("unused")
 @Configuration
 @Profile("test")
 public class TestConfig {

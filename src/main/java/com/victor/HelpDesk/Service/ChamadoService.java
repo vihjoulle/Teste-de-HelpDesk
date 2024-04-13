@@ -19,6 +19,7 @@ import java.util.List;
 import java.util.Optional;
 
 /** @noinspection UnusedAssignment*/
+@SuppressWarnings("unused")
 @Service
 public class ChamadoService {
 

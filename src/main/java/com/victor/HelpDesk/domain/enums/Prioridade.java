@@ -1,6 +1,6 @@
 package com.victor.HelpDesk.domain.enums;
 
-@SuppressWarnings({"unused", "UnnecessaryModifier"})
+@SuppressWarnings({"UnnecessaryModifier"})
 public enum Prioridade {
 
     BAIXA (0, "BAIXA"), MEDIA (1, "MEDIA"), ALTA (2, "ALTA");

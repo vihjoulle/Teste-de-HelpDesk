@@ -15,6 +15,7 @@ import com.victor.HelpDesk.domain.DTO.TecnicoDTO;
 import com.victor.HelpDesk.domain.enums.Perfil;
 
 /** @noinspection ALL */
+@SuppressWarnings("unused")
 @Entity
 public class Tecnico extends Pessoa {
     private static final long serialVersionUID = 1L;

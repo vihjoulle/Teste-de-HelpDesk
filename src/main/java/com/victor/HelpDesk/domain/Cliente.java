@@ -26,7 +26,7 @@ public class Cliente extends Pessoa {
     /** @noinspection SillyAssignment*/
     public Cliente(Integer id, String nome, String cpf, String email, String senha) {
         super(id, nome, cpf, email, senha);
-        this.chamados = chamados;
+      
     }
 
     public Cliente(ClienteDTO obj) {

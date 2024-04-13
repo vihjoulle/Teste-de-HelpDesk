@@ -1,6 +1,6 @@
 package com.victor.HelpDesk.domain.enums;
 
-@SuppressWarnings({"unused", "UnnecessaryModifier"})
+@SuppressWarnings({"UnnecessaryModifier"})
 public enum Status {
 
     ABERTO (0, "ABERTO"), ANDAMENTO (1, "ANDAMENTO"), ENCERRADO (2, "ENCERRADO");

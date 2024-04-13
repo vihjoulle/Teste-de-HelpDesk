@@ -13,6 +13,7 @@ import java.util.Objects;
 import java.util.Set;
 import java.util.stream.Collectors;
 
+@SuppressWarnings("unused")
 @Entity
 public abstract class Pessoa implements Serializable {
     private static final long serialVersionUID = 1L;

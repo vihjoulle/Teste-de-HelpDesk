@@ -17,6 +17,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /** @noinspection Convert2MethodRef*/
+@SuppressWarnings("unused")
 @RestController
 @RequestMapping(value = "/tecnicos")
 public class TecnicoResource {

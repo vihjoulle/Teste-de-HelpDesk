@@ -16,6 +16,7 @@ import org.hibernate.validator.constraints.br.CPF;
 
 
 /** @noinspection Convert2Diamond, UnnecessarySemicolon , LambdaCanBeReplacedWithAnonymous */
+@SuppressWarnings("unused")
 public class TecnicoDTO implements Serializable {
     private static final long serialVersionUID = 1L;
 
